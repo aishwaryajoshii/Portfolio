@@ -9,7 +9,7 @@ In the following sections of this README, I will provide a short summary of my d
 
 About Me & My Data Journey
 
-My data journey began prior to my masters, when I was wrokring in analytics ; primarily in fintech and health tech. I became mesmerized with data after learning how raw data was utilized to build end to end analytical solutions. In my undegrad, I had taken quantitative focused courses such as statistics, linear algebra, R, etc. After exploring the use of data more in different industries such as marketing, healthcare and finance, I officially began my data education with Master's in Analytics at USC, these projects are a testament of what I have done with Python and Business Intelligence over the past two years.
+My data journey began prior to my masters, when I was working in analytics ; primarily in fintech and health tech. I became mesmerized with data after learning how raw data was utilized to build end to end analytical solutions. In my undegrad, I had taken quantitative focused courses such as statistics, linear algebra, R, etc. After exploring the use of data more in different industries such as marketing, healthcare and finance, I officially began my data education with Master's in Analytics at USC, these projects are a testament of what I have done with Python and Business Intelligence over the past two years.
 
 Projects
 Proj#1 - NBA Data Wrangling & Exploration
@@ -26,10 +26,10 @@ In this project, I am interested in working to understand the crime rate in Lond
 This project contains a total of 2 notebooks. The skills that I have chosen to focus on are hypothesis testing and statistics, as well as regression data modeling.
 
 Proj#4 - Beer Project with R
-This was done as a project for Data Science 6306 at Southern Methodist University.We want to analyze 2 datasets(totalbeer.csv and totalbreweries.csv) to gain actionable insights to present to the CEO and CFO of Budweiser. Budweiser has hired us to answer some questions. We will perform Exploratory Data Analysis to answer the questions that they are interested in, all of which are listed down below. Afterward, we want to use the KNN classifier to see if we can predict what group a beer belongs to based on its IBU and/or ABV.
+We want to analyze 2 datasets(totalbeer.csv and totalbreweries.csv) to gain actionable insights to present to the CEO and CFO of Budweiser. Budweiser has hired us to answer some questions. We will perform Exploratory Data Analysis to answer the questions that they are interested in, all of which are listed down below. Afterward, we want to use the KNN classifier to see if we can predict what group a beer belongs to based on its IBU and/or ABV.
 
 Proj#5 - Airbnb Modeling
-In this Udacity Project, I'll be analyzing, modeling, and visualizing the datasets from Airbnb to provide a clear connection between my business questions and how the data answers them. I am interested in using the 2016-17 Seattle and Boston Airbnb datasets to answer the following questions:
+I'll be analyzing, modeling, and visualizing the datasets from Airbnb to provide a clear connection between my business questions and how the data answers them. I am interested in using the 2016-17 Seattle and Boston Airbnb datasets to answer the following questions:
 - What are the important amenities of these listings? Compare the two cities.
 - Is it possible to predict the price with 8 features? If yes, compare the 2 cities.
 - How does the price in each city change each month? Be sure to compare the 2 cities.
