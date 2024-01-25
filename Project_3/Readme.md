@@ -1,5 +1,7 @@
 London Crime Hypothesis Testing (2008-2016)
+
 by Aishwarya Joshi
+
 Summary of Project
 In this project, I am interested in working to understand the crime rate in London, England. My goal is to work through this notebook to understand violent crime rates and when they are likely to occur throughout the year. This dataset contains all crimes (non-violent and violent) committed between 2008 and 2016. However, the nature of the crime-violent or non-violent- is not specified in this dataset, so we will need to deal with that during the preprocessing phase. We will also need to specify which months are the ones when daylight saving is in effect.
 
@@ -21,5 +23,6 @@ Packages used:
 * statsmodels.api
 * random
 * statsmodels.stats.proportion
+
 Dataset
 If you are interested in downloading the dataset, please click on [this Kaggle link] (https://www.kaggle.com/datasets/jboysen/london-crime). There are a total of 13490604 rows in the dataset and 7 columns. Columns include variables such as month, LSOA borough, and major/minor category from Jan 2008-Dec 2016.
