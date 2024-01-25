@@ -9,7 +9,7 @@ In the following sections of this README, I will provide a short summary of my d
 
 About Me & My Data Journey
 
-My data journey began prior to my masters, when I was working in analytics ; primarily in fintech and health tech. I became mesmerized with data after learning how raw data was utilized to build end to end analytical solutions. In my undegrad, I had taken quantitative focused courses such as statistics, linear algebra, R, etc. After exploring the use of data more in different industries such as marketing, healthcare and finance, I officially began my data education with Master's in Analytics at USC, these projects are a testament of what I have done with Python and Business Intelligence over the past two years.
+My data journey began prior to my masters, when I was working in analytics ; primarily in fintech and health tech. I became mesmerized with data after learning how raw data was utilized to build end to end analytical solutions. In my undegrad, I had taken quantitative focused courses such as statistics, linear algebra, R, etc. After exploring the use of data more in different industries such as marketing, healthcare and finance, I officially began my data education with Master's in Analytics at USC, these projects are a testament of what I have done with programming languages (Python, R) and Business Intelligence over the past two years.
 
 Projects
 Proj#1 - NBA Data Wrangling & Exploration
